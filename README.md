@@ -6,6 +6,8 @@
 
 Gerald is an open-source, open-domain conversational AI that combines a **retrieval-based** system (BERT) with a **generation-based** system (T5) in a sequential ensemble—delivering contextually relevant, structurally coherent responses that outperform either approach alone.
 
+![Gerald Salton – The Father of Information Retrieval](https://github.com/user-attachments/assets/cbab2f65-aa97-413e-b5b5-7d0faee9ec54)
+
 Named after [Gerald Salton](https://en.wikipedia.org/wiki/Gerard_Salton), a pioneer in information retrieval.
 
 ---
