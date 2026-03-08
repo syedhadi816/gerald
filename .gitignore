@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+.venv/
+env/
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Data / models (large files)
+*.pkl
+*.csv
+*.txt
+!requirements.txt
+*.h5
+*.pt
+*.bin
+*.onnx
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+*.swp
+*.swo
+
+# Kaggle
+.kaggle/
+
+# Logs
+*.log
